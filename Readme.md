@@ -3,6 +3,8 @@
 > Dashboard Shiny interactif pour l'analyse d'essais cliniques en diabétologie et maladies cardiovasculaires.  
 > Mini-projet réalisé dans le cadre d'une préparation à une Aternance Data Science en industrie pharmaceutique.
 
+![PharmaExplorer Dashboard](assets/screenshot.png)
+
 ---
 
 ## Fonctionnalités
